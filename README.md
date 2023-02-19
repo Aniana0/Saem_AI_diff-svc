@@ -26,9 +26,11 @@
 
 ## EULA(English)
 #### License
+You can use this model for non-commercial purposes.<br>
+If you use this model for training other models, write that you used this model.
 
-
-#### 금지사항
+#### Don't do this.
+Do not do anything listed below.
 * 
 * 
 * 
