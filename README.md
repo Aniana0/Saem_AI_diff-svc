@@ -1,10 +1,15 @@
 # 샘(Sample) Diff-SVC용 모델
-음성 합성 소프트웨어 캐릭터 '샘(Sample)'의 Diff-SVC 버전 모델입니다.
+음성 합성 소프트웨어 캐릭터 '[샘(Sample)](https://blog.naver.com/aniana00/222054517943)'의 Diff-SVC 버전 모델입니다.
 해당 모델은 Diff-SVC를 통해 제작되었습니다.
 
-### Diff-SVC
-제작자: prophesier <br>
-링크: https://github.com/prophesier/diff-svc
+### 권장음역대
+F3 - A4
+
+### 학습에 사용한 데이터 길이
+* 노래소리: 약 1시간 32분
+* 보정된 노래소리: 약 11분
+* 말소리: 약 16분
+* UTAU/DeepVocal용 녹음본: 약 1시간 17분
 
 ## EULA(한국어)
 아래 내용은 요약본입니다. 자세한 내용은 license.txt를 참고해주십시오.
@@ -38,3 +43,8 @@
 * 
 * 
 * 
+
+## 각종 출처
+### Diff-SVC
+제작자: prophesier <br>
+링크: https://github.com/prophesier/diff-svc
