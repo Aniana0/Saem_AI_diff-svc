@@ -25,20 +25,22 @@
 * Diff-SVC의 이용 허락을 어기는 것.
 
 ## EULA(English)
-#### License
-You can use this model for non-commercial purposes.<br>
-If you use this model for training other models, write that you used this model.
+#### Permission to use
+The creator grants permission to use the model on condition that the user abides by all terms and conditions of
+the EULA. <br>
+Users may use synthetic voices created by users for non-commercial purposes.<br>
+When disclosing other models trained using the Sample's model, it must be stated that the Sample's model was used.
 
-#### Don't do this.
-Do not do anything listed below.
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+#### Prohibition
+The following actions using the Sample's model and synthesized voice are prohibited.
+* The act of producing media products harmful to youth
+* Acts that violate not only the rights of the producer but also the rights of third parties
+* Violation of public order
+* Use for political and religious purposes
+* Ethical and legally problematic acts or disclosure of synthesized voices on websites with such problems
+* Selling or redistributing the Sample's model, parts of the Sample's model, or modified Sample's models or parts of the Sample's model without the permission of the producer
+* Modifying or deleting the Sample's model copyright notice and this agreement
+* Violation of permission to use from Diff-SVC
 
 ## 각종 출처
 ### Diff-SVC
