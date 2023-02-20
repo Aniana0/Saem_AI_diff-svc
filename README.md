@@ -10,6 +10,9 @@
 * RAIN -SEKAI NO OWARI : https://youtu.be/j_dw-ReoXX4
 * 과수원길 - 동요 : https://youtu.be/IxpI3uPOXEA
 
+### 그 외의 주의 사항
+목소리 제공자 이외의 사람이 사용하면 발음이 좀 이상합니다. 해결법을 찾는 중입니다...
+
 ## EULA(한국어)
 아래 내용은 요약본입니다. 자세한 내용은 license.txt를 참고해주십시오.
 
