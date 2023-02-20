@@ -5,6 +5,11 @@
 ### 권장음역대
 * F3 - A4
 
+### 목소리 샘플
+* RAIN -SEKAI NO OWARI 믹싱버전 : https://youtu.be/Gf3G3v34KCs
+* RAIN -SEKAI NO OWARI : https://youtu.be/j_dw-ReoXX4
+* 과수원길 - 동요 : https://youtu.be/IxpI3uPOXEA
+
 ## EULA(한국어)
 아래 내용은 요약본입니다. 자세한 내용은 license.txt를 참고해주십시오.
 
