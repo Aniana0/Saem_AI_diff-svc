@@ -2,6 +2,11 @@
 음성 합성 소프트웨어 캐릭터 '[샘(Sample)](https://blog.naver.com/aniana00/222054517943)'의 Diff-SVC 버전 모델입니다.
 해당 모델은 Diff-SVC를 통해 제작되었습니다.
 
+## 업데이트 내역 및 다운로드
+
+#### 최신버전: [1.0.0](https://github.com/Aniana0/Saem_AI_diff-svc/releases/download/latest/Saem_AI.zip)
+* [1.0.0](https://github.com/Aniana0/Saem_AI_diff-svc/releases/download/latest/Saem_AI.zip): 최초 배포
+
 ## 모델 정보(최신 버전 기준)
 
 #### 권장음역대
