@@ -5,6 +5,14 @@
 ### 권장음역대
 * F3 - A4
 
+### 목소리 샘플
+* RAIN -SEKAI NO OWARI 믹싱버전 : https://youtu.be/Gf3G3v34KCs
+* RAIN -SEKAI NO OWARI : https://youtu.be/j_dw-ReoXX4
+* 과수원길 - 동요 : https://youtu.be/IxpI3uPOXEA
+
+### 그 외의 주의 사항
+목소리 제공자 이외의 사람이 사용하면 발음이 좀 이상합니다. 해결법을 찾는 중입니다...
+
 ## EULA(한국어)
 아래 내용은 요약본입니다. 자세한 내용은 license.txt를 참고해주십시오.
 
@@ -25,18 +33,22 @@
 * Diff-SVC의 이용 허락을 어기는 것.
 
 ## EULA(English)
-#### License
+#### Permission to use
+The creator grants permission to use the model on condition that the user abides by all terms and conditions of
+the EULA. <br>
+Users may use synthetic voices created by users for non-commercial purposes.<br>
+When disclosing other models trained using the Sample's model, it must be stated that the Sample's model was used.
 
-
-#### 금지사항
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+#### Prohibition
+The following actions using the Sample's model and synthesized voice are prohibited.
+* The act of producing media products harmful to youth
+* Acts that violate not only the rights of the producer but also the rights of third parties
+* Violation of public order
+* Use for political and religious purposes
+* Ethical and legally problematic acts or disclosure of synthesized voices on websites with such problems
+* Selling or redistributing the Sample's model, parts of the Sample's model, or modified Sample's models or parts of the Sample's model without the permission of the producer
+* Modifying or deleting the Sample's model copyright notice and this agreement
+* Violation of permission to use from Diff-SVC
 
 ## 각종 출처
 ### Diff-SVC
