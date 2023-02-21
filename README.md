@@ -69,6 +69,6 @@ The following actions using the Sample's model and synthesized voice are prohibi
 * Violation of permission to use from Diff-SVC
 
 ## 각종 출처
-### Diff-SVC
+#### Diff-SVC
 제작자: prophesier <br>
 링크: https://github.com/prophesier/diff-svc
