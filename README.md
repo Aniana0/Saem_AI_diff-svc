@@ -2,6 +2,8 @@
 음성 합성 소프트웨어 캐릭터 '[샘(Sample)](https://blog.naver.com/aniana00/222054517943)'의 Diff-SVC 버전 모델입니다.
 해당 모델은 Diff-SVC를 통해 제작되었습니다.
 
+#### ❗절대 Diff-SVC의 공식 샘플 모델이 아닙니다. 캐릭터 이름이 샘플(줄여서 샘)입니다.❗<br>❗My character name is Sample(Nickname: Saem). This is not an official sample model of Diff-SVC.❗
+
 ## 업데이트 내역 및 다운로드
 
 #### 최신버전: [1.0.0](https://github.com/Aniana0/Saem_AI_diff-svc/releases/download/latest/Saem_AI.zip)
@@ -51,10 +53,9 @@
 
 ## EULA(English)
 #### Permission to use
-The creator grants permission to use the model on condition that the user abides by all terms and conditions of
-the EULA. <br>
-Users may use synthetic voices created by users for non-commercial purposes.<br>
-When disclosing other models trained using the Sample's model, it must be stated that the Sample's model was used.
+* Users may use synthetic voices for non-commercial purposes.<br>
+* When releasing synthetic voices, it must be stated that the Sample's model was used.
+* When disclosing other models trained using the Sample's model, it must be stated that the Sample's model was used.
 
 #### Prohibition
 The following actions using the Sample's model and synthesized voice are prohibited.
