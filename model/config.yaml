@@ -10,7 +10,7 @@ binarization_args:
   with_spk_embed: false
   with_wav: false
 binarizer_cls: preprocessing.SVCpre.SVCBinarizer
-binary_data_dir: data/binary/Saem_AI
+binary_data_dir: data/binary/Saem_diff-svc
 check_val_every_n_epoch: 10
 choose_test_manually: false
 clip_grad_norm: 1
@@ -130,7 +130,7 @@ prenet_hidden_size: 256
 pretrain_fs_ckpt: ''
 processed_data_dir: xxx
 profile_infer: false
-raw_data_dir: data/raw/Saem_AI
+raw_data_dir: data/raw/Saem_diff-svc
 ref_norm_layer: bn
 rel_pos: true
 reset_phone_dict: true
@@ -148,7 +148,7 @@ save_gt: false
 schedule_type: linear
 seed: 1234
 sort_by_len: true
-speaker_id: Saem_AI
+speaker_id: Saem_diff-svc
 spec_max:
 - 0.473900705575943
 - 0.42965227365493774
@@ -442,4 +442,4 @@ warmup_updates: 2000
 wav2spec_eps: 1e-6
 weight_decay: 0
 win_size: 2048
-work_dir: checkpoints/Saem_AI
+work_dir: checkpoints/Saem_diff-svc
