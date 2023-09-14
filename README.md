@@ -7,8 +7,8 @@
 ## 업데이트 내역 및 다운로드
 
 #### 최신버전: [1.1.0](https://github.com/Aniana0/Saem_AI_diff-svc/releases/download/1.1.0/Saem_AI.zip)
-* [1.0.0](https://github.com/Aniana0/Saem_AI_diff-svc/releases/download/1.0.0/Saem_AI.zip): 최초버전
-* [1.1.0](https://github.com/Aniana0/Saem_AI_diff-svc/releases/download/1.1.0/Saem_AI.zip): 최신버전
+* [1.0.0](https://github.com/Aniana0/Saem_AI_diff-svc/releases/download/1.0.0/Saem_AI.zip) : 최초버전
+* [1.1.0](https://github.com/Aniana0/Saem_AI_diff-svc/releases/download/1.1.0/Saem_AI.zip) : 최신버전
 
 ## 모델 정보(최신 버전 기준)
 
